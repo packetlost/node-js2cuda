@@ -26,7 +26,7 @@ var cudaTypes = {
 	"intArray": "int*",
 	"floatArray": "float*",
 	"object": "struct",
-};
+}; 
 
 module.exports.generate = function(jscode)
 {
